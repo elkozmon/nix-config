@@ -1,0 +1,12 @@
+{
+  "files.trimTrailingWhitespace": true,
+  "files.exclude": {
+    "**/.direnv/": true,
+    "**/.pre-commit-config.yaml": true
+  },
+  "search.exclude": {
+    "**/.direnv/": true,
+    "**/.pre-commit-config.yaml": true
+  },
+  "editor.tabSize": 2
+}
